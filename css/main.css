@@ -27,7 +27,7 @@ img {
 @media only screen and (min-width: 38em) {
 
   .btn-1 {
-    padding-left: 6em;
+    text-align: right;
   }
 
 }
@@ -36,17 +36,13 @@ img {
 
   .content {
     position: absolute;
-    top: 14em;
+    top: 14.5em;
     background-color: transparent;
-    background-image: linear-gradient(to bottom, transparent, rgba(255, 255, 255, .5));
+    background-image: linear-gradient(to bottom, transparent, rgba(255, 255, 255, .2));
   }
 
   img {
     position: relative;
-  }
-
-  .btn-1 {
-    padding-left: 10em;
   }
 
 }
